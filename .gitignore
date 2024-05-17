@@ -12,3 +12,6 @@ ytt.config.*
 package-lock.json
 .umi*
 docs/dist
+
+.yarn/
+.pnp.*
